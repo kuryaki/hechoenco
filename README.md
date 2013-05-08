@@ -1,12 +1,12 @@
-# List of Colombian Internet Startups
+# Empresas Digitales hechas en Colombia
 
-#### This is a List of Colombian Startups
+1. [Codetag](http://codetag.me/)
+1. [Mapache Studios](http://www.mapachestudios.com/)
+1. [Solocontrata](http://solocontrata.me/)
+1. [Thotz](http://thotz.co/)
+1. [Ubidots](http://ubidots.com/)
+1. [Urgift](http://urgift.in/)
 
-1. one
-1. two
-1. three
-1. four
+## Agregar
 
-## Contribute
-
-You can send a pull request for the README.md file or send me an mail at david@roncancio.me
+Puedes hacer un [Pull Request](https://github.com/kuryaki/hechoenco) o enviar un correo a [david@roncancio.me](mailto:david@roncancio.me)

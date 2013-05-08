@@ -34,7 +34,7 @@ module.exports = function (grunt) {
             },
             less: {
                 files: ['<%= yeoman.app %>/styles/{,*/}*.less'],
-                tasks: ['less']
+                tasks: ['md2html','less']
             },
             markdown: {
                 files: ['README.md'],
@@ -47,7 +47,7 @@ module.exports = function (grunt) {
                     '{.tmp,<%= yeoman.app %>}/scripts/{,*/}*.js',
                     '<%= yeoman.app %>/images/{,*/}*.{png,jpg,jpeg,gif,webp,svg}'
                 ],
-                tasks: ['livereload']
+                tasks: ['md2html','livereload']
             }
         },
         connect: {
